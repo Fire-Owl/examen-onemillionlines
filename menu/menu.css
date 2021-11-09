@@ -32,6 +32,9 @@ ul.topnav li a:hover {
 ul.topnav li.icon {
   display: none;
 }
+.img{
+  background-image: no-repeat;
+}
 
 /* Mobile Menu */
 
